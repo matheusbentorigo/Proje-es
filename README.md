@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title> ENEM - Projeções e Vistas Ortogonais</title>
+    <title>ENEM - Projeções e Vistas Ortogonais</title>
     <style>
         /* estilos mantidos e limpos (sem alterações de design importantes) */
         body {
