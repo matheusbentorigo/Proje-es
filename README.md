@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ENEM - Projeções e Vistas Ortogonais</title>
+</head>title>ENEM - Projeções e Vistas Ortogonais</title>
     <style>
         /* estilos mantidos e limpos (sem alterações de design importantes) */
         body {
@@ -18,13 +18,11 @@
             font-size: 14px;
         }
         html { height: 100%; }
-
         .container {
             max-width: 1200px;
             margin: 0 auto;
             padding: 0 20px;
         }
-
         header {
             background: rgba(255, 255, 255, 0.95);
             backdrop-filter: blur(10px);
